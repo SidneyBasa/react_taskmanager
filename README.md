@@ -1,7 +1,7 @@
 # React practice
-- First usage of vite
-- local storage
-- No Database
+First usage of vite<br>
+local storage<br>
+No Database<br>
 
 Project from React Tutorial by YouTube Channel: Code Bless You
 ## Task manager web application
