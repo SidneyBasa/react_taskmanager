@@ -1,6 +1,7 @@
-# React practice + Vite
-# local storage
-# No Database
+# React practice
+## First usage of vite
+## local storage
+## No Database
 
 Project from React Tutorial by YouTube Channel: Code Bless You
 ![image](https://github.com/SidneyBasa/react_taskmanager/assets/67940686/32927407-af45-49db-9faa-994b24288022)
