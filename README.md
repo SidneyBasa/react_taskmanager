@@ -5,7 +5,7 @@ No Database<br>
 
 Project from React Tutorial by YouTube Channel: Code Bless You
 ## Task manager web application
-![image](https://github.com/SidneyBasa/react_taskmanager/assets/67940686/4fa70de5-300f-4013-bafc-a72a60698deb)
+![image](https://github.com/SidneyBasa/react_taskmanager/blob/main/src/assets/application%20desktop.jpg?raw=true)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
