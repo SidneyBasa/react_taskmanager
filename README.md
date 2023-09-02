@@ -1,9 +1,10 @@
 # React practice
-## First usage of vite
-## local storage
-## No Database
+First usage of vite
+local storage
+No Database
 
 Project from React Tutorial by YouTube Channel: Code Bless You
+## Task manager web application
 ![image](https://github.com/SidneyBasa/react_taskmanager/assets/67940686/32927407-af45-49db-9faa-994b24288022)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
